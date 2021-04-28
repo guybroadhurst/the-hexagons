@@ -26,7 +26,7 @@ This was the fifth homework project on the [Superhi Foundation](https://superhi.
 * jQuery v3.5.1
 
 ## Demo
-[Live Demo](https://guybroadhurst.github.io/the-hexagons/)
+[Live Demo](https://the-hexagons-band-1.superhi.com/)
 
 ## Features
 List of features:
